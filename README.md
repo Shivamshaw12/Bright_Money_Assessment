@@ -1,9 +1,8 @@
 # Bright_Money_Assessment
 
-# Loan_Management_System
-Bright-Money-Assignment
+# LoanManagement App
 
-How to run this project locally 
+Steps to run this project locally 
 
 ## Clone this repo and install all dependencies
 ```sh
