@@ -1,5 +1,3 @@
-# Bright Money Assessment
-
 # Loan Management App
 
 Steps to run this project locally 
